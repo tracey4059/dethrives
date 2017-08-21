@@ -35,7 +35,7 @@
                     </div>
                     <div class="large-6 medium-6 small-6 columns">
                        <div class="theme-by">Copyright <?php echo date('Y'); ?> Worldways, Inc.<br>
-                        Webmaster: <a href="http://marketingsocialimpact.com/" target="_blank"> Worldways, Inc.</a></div>
+                        Webmaster: <a href="http://marketingsocialimpact.com/" target="_blank"> Worldways, Incorporated</a></div>
                     </div>
                     
                 </div>
